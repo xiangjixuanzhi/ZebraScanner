@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\VSProjects\BojayScanner\BojayScanner\bin\x64\Release\BojayScanner.dll
+C:\Users\Administrator\Desktop\VSProjects\BojayScanner\BojayScanner\bin\x64\Release\BojayScanner.pdb
+C:\Users\Administrator\Desktop\VSProjects\BojayScanner\BojayScanner\bin\x64\Release\Interop.CoreScanner.dll
+C:\Users\Administrator\Desktop\VSProjects\BojayScanner\BojayScanner\obj\x64\Release\BojayScanner.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\VSProjects\BojayScanner\BojayScanner\obj\x64\Release\BojayScanner.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\VSProjects\BojayScanner\BojayScanner\obj\x64\Release\BojayScanner.csproj.CopyComplete
+C:\Users\Administrator\Desktop\VSProjects\BojayScanner\BojayScanner\obj\x64\Release\BojayScanner.dll
+C:\Users\Administrator\Desktop\VSProjects\BojayScanner\BojayScanner\obj\x64\Release\BojayScanner.pdb
